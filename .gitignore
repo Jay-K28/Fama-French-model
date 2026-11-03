@@ -18,3 +18,4 @@ Thumbs.db
 
 # Optional
 *.log
+data/interim/*.pkl
