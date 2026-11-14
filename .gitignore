@@ -1,0 +1,15 @@
+# Jupyter
+.ipynb_checkpoints/
+# Python
+__pycache__/
+*.pyc
+# Virtual environments
+venv/
+.env/
+# Raw NSE dumps
+data/raw/
+# OS files
+.DS_Store
+Thumbs.db
+.gitignore.bad
+data/interim/bhav_daily.pkl

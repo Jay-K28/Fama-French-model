@@ -1,0 +1,67 @@
+{
+  "models": {
+    "CAPM": [
+      "MKT"
+    ],
+    "FF3": [
+      "MKT",
+      "SMB",
+      "HML"
+    ],
+    "FF4_noHML": [
+      "MKT",
+      "SMB",
+      "RMW",
+      "CMA"
+    ],
+    "FF5": [
+      "MKT",
+      "SMB",
+      "HML",
+      "RMW",
+      "CMA"
+    ]
+  },
+  "n_groups": 3,
+  "flagged_portfolios": [],
+  "formations_used": [
+    "2016-06-30",
+    "2017-06-30",
+    "2018-06-30",
+    "2019-06-30",
+    "2020-06-30",
+    "2021-06-30",
+    "2022-06-30",
+    "2023-06-30",
+    "2024-06-30",
+    "2025-06-30",
+    "2026-06-30"
+  ],
+  "first_month": "2016-07-31",
+  "last_month": "2026-09-30",
+  "n_months": 123,
+  "nw_lags": 6,
+  "portfolio_spec": {
+    "liquidity_cut": 0.2,
+    "winsor": 0.01,
+    "top_share": 0.2,
+    "stock_cap": 0.05,
+    "sector_cap": 0.25,
+    "cost_one_way": 0.0025
+  },
+  "portfolios": {
+    "FF5 score, equal weight": {
+      "score_col": "score_ff5",
+      "weighting": "EW"
+    },
+    "FF5 score, inverse vol": {
+      "score_col": "score_ff5",
+      "weighting": "IV"
+    },
+    "FF5 + momentum score, equal weight": {
+      "score_col": "score_ff5_mom",
+      "weighting": "EW"
+    }
+  },
+  "main_portfolio": "FF5 score, equal weight"
+}

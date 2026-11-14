@@ -1,0 +1,173 @@
+step,test,item,verdict
+2,IIMA correlation,MKT,Pass
+2,IIMA correlation,SMB,Pass
+2,IIMA correlation,HML,Pass
+2,IIMA correlation,Rf,Pass
+2,IIMA premium,MKT,Pass
+2,IIMA premium,SMB,Pass
+2,IIMA premium,HML,Pass
+3,"Premium, alternative construction",2x2 sorts | MKT,Pass
+3,"Premium, alternative construction",2x2 sorts | SMB,Pass
+3,"Premium, alternative construction",2x2 sorts | HML,Pass
+3,"Premium, alternative construction",2x2 sorts | RMW,Fragile
+3,"Premium, alternative construction",2x2 sorts | CMA,Pass
+3,"Premium, alternative construction",Excl. financials | MKT,Pass
+3,"Premium, alternative construction",Excl. financials | SMB,Pass
+3,"Premium, alternative construction",Excl. financials | HML,Pass
+3,"Premium, alternative construction",Excl. financials | RMW,Pass
+3,"Premium, alternative construction",Excl. financials | CMA,Pass
+3,"Premium, alternative construction",Big = top 100 | MKT,Pass
+3,"Premium, alternative construction",Big = top 100 | SMB,Pass
+3,"Premium, alternative construction",Big = top 100 | HML,Pass
+3,"Premium, alternative construction",Big = top 100 | RMW,Pass
+3,"Premium, alternative construction",Big = top 100 | CMA,Pass
+3,"Premium, alternative construction",Equal-weighted | MKT,Pass
+3,"Premium, alternative construction",Equal-weighted | SMB,Pass
+3,"Premium, alternative construction",Equal-weighted | HML,Pass
+3,"Premium, alternative construction",Equal-weighted | RMW,Pass
+3,"Premium, alternative construction",Equal-weighted | CMA,Pass
+3,"GRS, alternative construction",2x2 sorts | FF3 | BM,Pass
+3,"GRS, alternative construction",2x2 sorts | FF3 | OP,Pass
+3,"GRS, alternative construction",2x2 sorts | FF3 | INV,Pass
+3,"GRS, alternative construction",2x2 sorts | FF3 | ALL,Pass
+3,"GRS, alternative construction",2x2 sorts | FF5 | BM,Pass
+3,"GRS, alternative construction",2x2 sorts | FF5 | OP,Pass
+3,"GRS, alternative construction",2x2 sorts | FF5 | INV,Pass
+3,"GRS, alternative construction",2x2 sorts | FF5 | ALL,Pass
+3,"GRS, alternative construction",Excl. financials | FF3 | BM,Pass
+3,"GRS, alternative construction",Excl. financials | FF3 | OP,Pass
+3,"GRS, alternative construction",Excl. financials | FF3 | INV,Pass
+3,"GRS, alternative construction",Excl. financials | FF3 | ALL,Pass
+3,"GRS, alternative construction",Excl. financials | FF5 | BM,Pass
+3,"GRS, alternative construction",Excl. financials | FF5 | OP,Pass
+3,"GRS, alternative construction",Excl. financials | FF5 | INV,Pass
+3,"GRS, alternative construction",Excl. financials | FF5 | ALL,Pass
+3,"GRS, alternative construction",Big = top 100 | FF3 | BM,Fragile
+3,"GRS, alternative construction",Big = top 100 | FF3 | OP,Pass
+3,"GRS, alternative construction",Big = top 100 | FF3 | INV,Pass
+3,"GRS, alternative construction",Big = top 100 | FF3 | ALL,Pass
+3,"GRS, alternative construction",Big = top 100 | FF5 | BM,Pass
+3,"GRS, alternative construction",Big = top 100 | FF5 | OP,Pass
+3,"GRS, alternative construction",Big = top 100 | FF5 | INV,Pass
+3,"GRS, alternative construction",Big = top 100 | FF5 | ALL,Fragile
+3,"GRS, alternative construction",Equal-weighted | FF3 | BM,Pass
+3,"GRS, alternative construction",Equal-weighted | FF3 | OP,Pass
+3,"GRS, alternative construction",Equal-weighted | FF3 | INV,Pass
+3,"GRS, alternative construction",Equal-weighted | FF3 | ALL,Pass
+3,"GRS, alternative construction",Equal-weighted | FF5 | BM,Pass
+3,"GRS, alternative construction",Equal-weighted | FF5 | OP,Pass
+3,"GRS, alternative construction",Equal-weighted | FF5 | INV,Pass
+3,"GRS, alternative construction",Equal-weighted | FF5 | ALL,Pass
+4,"Premium, sub-period",First half | MKT,Pass
+4,"Premium, sub-period",First half | SMB,Pass
+4,"Premium, sub-period",First half | HML,Pass
+4,"Premium, sub-period",First half | RMW,Pass
+4,"Premium, sub-period",First half | CMA,Pass
+4,"Premium, sub-period",Second half | MKT,Pass
+4,"Premium, sub-period",Second half | SMB,Pass
+4,"Premium, sub-period",Second half | HML,Fragile
+4,"Premium, sub-period",Second half | RMW,Pass
+4,"Premium, sub-period",Second half | CMA,Pass
+4,"Premium, sub-period",Excl. Covid | MKT,Pass
+4,"Premium, sub-period",Excl. Covid | SMB,Pass
+4,"Premium, sub-period",Excl. Covid | HML,Pass
+4,"Premium, sub-period",Excl. Covid | RMW,Pass
+4,"Premium, sub-period",Excl. Covid | CMA,Pass
+4,"GRS, sub-period",First half | CAPM | BM,Fragile
+4,"GRS, sub-period",First half | CAPM | OP,Pass
+4,"GRS, sub-period",First half | CAPM | INV,Pass
+4,"GRS, sub-period",First half | CAPM | ALL,Pass
+4,"GRS, sub-period",First half | FF3 | BM,Fragile
+4,"GRS, sub-period",First half | FF3 | OP,Pass
+4,"GRS, sub-period",First half | FF3 | INV,Pass
+4,"GRS, sub-period",First half | FF3 | ALL,Pass
+4,"GRS, sub-period",First half | FF4_noHML | BM,Fragile
+4,"GRS, sub-period",First half | FF4_noHML | OP,Fragile
+4,"GRS, sub-period",First half | FF4_noHML | INV,Pass
+4,"GRS, sub-period",First half | FF4_noHML | ALL,Pass
+4,"GRS, sub-period",First half | FF5 | BM,Fragile
+4,"GRS, sub-period",First half | FF5 | OP,Fragile
+4,"GRS, sub-period",First half | FF5 | INV,Pass
+4,"GRS, sub-period",First half | FF5 | ALL,Pass
+4,"GRS, sub-period",Second half | CAPM | BM,Fragile
+4,"GRS, sub-period",Second half | CAPM | OP,Pass
+4,"GRS, sub-period",Second half | CAPM | INV,Pass
+4,"GRS, sub-period",Second half | CAPM | ALL,Pass
+4,"GRS, sub-period",Second half | FF3 | BM,Fragile
+4,"GRS, sub-period",Second half | FF3 | OP,Pass
+4,"GRS, sub-period",Second half | FF3 | INV,Pass
+4,"GRS, sub-period",Second half | FF3 | ALL,Pass
+4,"GRS, sub-period",Second half | FF4_noHML | BM,Fragile
+4,"GRS, sub-period",Second half | FF4_noHML | OP,Pass
+4,"GRS, sub-period",Second half | FF4_noHML | INV,Pass
+4,"GRS, sub-period",Second half | FF4_noHML | ALL,Pass
+4,"GRS, sub-period",Second half | FF5 | BM,Fragile
+4,"GRS, sub-period",Second half | FF5 | OP,Pass
+4,"GRS, sub-period",Second half | FF5 | INV,Fragile
+4,"GRS, sub-period",Second half | FF5 | ALL,Pass
+4,"GRS, sub-period",Excl. Covid | CAPM | BM,Fragile
+4,"GRS, sub-period",Excl. Covid | CAPM | OP,Pass
+4,"GRS, sub-period",Excl. Covid | CAPM | INV,Pass
+4,"GRS, sub-period",Excl. Covid | CAPM | ALL,Pass
+4,"GRS, sub-period",Excl. Covid | FF3 | BM,Fragile
+4,"GRS, sub-period",Excl. Covid | FF3 | OP,Pass
+4,"GRS, sub-period",Excl. Covid | FF3 | INV,Pass
+4,"GRS, sub-period",Excl. Covid | FF3 | ALL,Pass
+4,"GRS, sub-period",Excl. Covid | FF4_noHML | BM,Fragile
+4,"GRS, sub-period",Excl. Covid | FF4_noHML | OP,Pass
+4,"GRS, sub-period",Excl. Covid | FF4_noHML | INV,Pass
+4,"GRS, sub-period",Excl. Covid | FF4_noHML | ALL,Pass
+4,"GRS, sub-period",Excl. Covid | FF5 | BM,Fragile
+4,"GRS, sub-period",Excl. Covid | FF5 | OP,Pass
+4,"GRS, sub-period",Excl. Covid | FF5 | INV,Pass
+4,"GRS, sub-period",Excl. Covid | FF5 | ALL,Pass
+6,"GRS, bootstrap vs F-test",CAPM | BM,Fragile
+6,"GRS, bootstrap vs F-test",CAPM | OP,Pass
+6,"GRS, bootstrap vs F-test",CAPM | INV,Pass
+6,"GRS, bootstrap vs F-test",CAPM | ALL,Pass
+6,"GRS, bootstrap vs F-test",CAPM | IND,Pass
+6,"GRS, bootstrap vs F-test",FF3 | BM,Pass
+6,"GRS, bootstrap vs F-test",FF3 | OP,Pass
+6,"GRS, bootstrap vs F-test",FF3 | INV,Pass
+6,"GRS, bootstrap vs F-test",FF3 | ALL,Pass
+6,"GRS, bootstrap vs F-test",FF3 | IND,Pass
+6,"GRS, bootstrap vs F-test",FF4_noHML | BM,Pass
+6,"GRS, bootstrap vs F-test",FF4_noHML | OP,Pass
+6,"GRS, bootstrap vs F-test",FF4_noHML | INV,Pass
+6,"GRS, bootstrap vs F-test",FF4_noHML | ALL,Pass
+6,"GRS, bootstrap vs F-test",FF4_noHML | IND,Pass
+6,"GRS, bootstrap vs F-test",FF5 | BM,Fragile
+6,"GRS, bootstrap vs F-test",FF5 | OP,Pass
+6,"GRS, bootstrap vs F-test",FF5 | INV,Pass
+6,"GRS, bootstrap vs F-test",FF5 | ALL,Pass
+6,"GRS, bootstrap vs F-test",FF5 | IND,Pass
+8,"Portfolio FF5 alpha, variant",Cost 0.15%,Pass
+8,"Portfolio FF5 alpha, variant",Cost 0.50%,Fragile
+8,"Portfolio FF5 alpha, variant",Inverse vol,Fragile
+8,"Portfolio FF5 alpha, variant",No caps,Pass
+8,"Portfolio FF5 alpha, variant",Top 10%,Fragile
+8,"Portfolio FF5 alpha, variant",Top 30%,Pass
+8,"Portfolio FF5 alpha, variant",With momentum,Pass
+8,"Portfolio active return vs Nifty 500, variant",Cost 0.15%,Pass
+8,"Portfolio active return vs Nifty 500, variant",Cost 0.50%,Pass
+8,"Portfolio active return vs Nifty 500, variant",Inverse vol,Pass
+8,"Portfolio active return vs Nifty 500, variant",No caps,Pass
+8,"Portfolio active return vs Nifty 500, variant",Top 10%,Pass
+8,"Portfolio active return vs Nifty 500, variant",Top 30%,Pass
+8,"Portfolio active return vs Nifty 500, variant",With momentum,Pass
+8,Momentum variant FF5 alpha,Cost 0.50% | Full sample,Pass
+8,Momentum variant FF5 alpha,Cost 0.25% (Phase 3) | First half,Pass
+8,Momentum variant FF5 alpha,Cost 0.25% (Phase 3) | Second half,Pass
+8,Momentum variant FF5 alpha,Cost 0.25% (Phase 3) | Excl. Covid,Pass
+8,Momentum variant active return vs EW universe,Cost 0.50% | Full sample,Fragile
+8,Momentum variant active return vs EW universe,Cost 0.25% (Phase 3) | First half,Fragile
+8,Momentum variant active return vs EW universe,Cost 0.25% (Phase 3) | Second half,Pass
+8,Momentum variant active return vs EW universe,Cost 0.25% (Phase 3) | Excl. Covid,Pass
+8,"Portfolio FF5 alpha, sub-period",First half,Fragile
+8,"Portfolio FF5 alpha, sub-period",Second half,Pass
+8,"Portfolio FF5 alpha, sub-period",Excl. Covid,Fragile
+8,"Portfolio active return vs Nifty 500, sub-period",First half,Pass
+8,"Portfolio active return vs Nifty 500, sub-period",Second half,Fragile
+8,"Portfolio active return vs Nifty 500, sub-period",Excl. Covid,Pass
+7,UMD vs IIMA WML,correlation,Pass
+7,UMD vs IIMA WML,premium,Pass

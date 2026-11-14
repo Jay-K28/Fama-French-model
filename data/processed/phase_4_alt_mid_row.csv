@@ -1,0 +1,6 @@
+version,FF5_mid_row_avg_a_%,FF5_mid_row_significant
+Baseline,0.1742220212115782,4
+2x2 sorts,0.144164428342489,2
+Excl. financials,0.2047925373074794,4
+Big = top 100,0.0744138953684238,2
+Equal-weighted,0.16663961912125974,3

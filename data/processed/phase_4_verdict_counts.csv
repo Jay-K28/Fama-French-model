@@ -1,0 +1,15 @@
+step,test,Pass,Fragile,Fail
+2,IIMA correlation,4,0,0
+2,IIMA premium,3,0,0
+3,"GRS, alternative construction",30,2,0
+3,"Premium, alternative construction",19,1,0
+4,"GRS, sub-period",33,15,0
+4,"Premium, sub-period",14,1,0
+6,"GRS, bootstrap vs F-test",18,2,0
+7,UMD vs IIMA WML,2,0,0
+8,Momentum variant FF5 alpha,4,0,0
+8,Momentum variant active return vs EW universe,2,2,0
+8,"Portfolio FF5 alpha, sub-period",1,2,0
+8,"Portfolio FF5 alpha, variant",4,3,0
+8,"Portfolio active return vs Nifty 500, sub-period",2,1,0
+8,"Portfolio active return vs Nifty 500, variant",7,0,0
